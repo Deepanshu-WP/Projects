@@ -1,0 +1,41 @@
+[17-Jun-2021 23:43:12 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/referje0/bagrusaree.com/project-management/config.php on line 8
+[19-Jun-2021 22:34:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/referje0/bagrusaree.com/project-management/activate.php:10) in /home4/referje0/bagrusaree.com/project-management/activate.php on line 12
+[19-Jun-2021 22:49:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home4/referje0/bagrusaree.com/project-management/forgot-password.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/referje0/bagrusaree.com/project-management/forgot-password.php on line 29
+[19-Jun-2021 22:59:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/referje0/bagrusaree.com/project-management/create-password.php:10) in /home4/referje0/bagrusaree.com/project-management/create-password.php on line 12
+[19-Jun-2021 22:59:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function emptyempty() in /home4/referje0/bagrusaree.com/project-management/create-password.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/referje0/bagrusaree.com/project-management/create-password.php on line 87
+[19-Jun-2021 23:00:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function emptyempty() in /home4/referje0/bagrusaree.com/project-management/create-password.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/referje0/bagrusaree.com/project-management/create-password.php on line 87
+[19-Jun-2021 23:00:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function emptyempty() in /home4/referje0/bagrusaree.com/project-management/create-password.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/referje0/bagrusaree.com/project-management/create-password.php on line 87
+[19-Jun-2021 23:00:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function emptyempty() in /home4/referje0/bagrusaree.com/project-management/create-password.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/referje0/bagrusaree.com/project-management/create-password.php on line 87
+[19-Jun-2021 23:01:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function emptyempty() in /home4/referje0/bagrusaree.com/project-management/create-password.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/referje0/bagrusaree.com/project-management/create-password.php on line 87
+[19-Jun-2021 23:01:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function emptyempty() in /home4/referje0/bagrusaree.com/project-management/create-password.php:77
+Stack trace:
+#0 {main}
+  thrown in /home4/referje0/bagrusaree.com/project-management/create-password.php on line 77
+[19-Jun-2021 23:01:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function emptyempty() in /home4/referje0/bagrusaree.com/project-management/create-password.php:77
+Stack trace:
+#0 {main}
+  thrown in /home4/referje0/bagrusaree.com/project-management/create-password.php on line 77
+[19-Jun-2021 23:01:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function emptyempty() in /home4/referje0/bagrusaree.com/project-management/create-password.php:77
+Stack trace:
+#0 {main}
+  thrown in /home4/referje0/bagrusaree.com/project-management/create-password.php on line 77
+[19-Jun-2021 23:21:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/referje0/bagrusaree.com/project-management/activate.php:10) in /home4/referje0/bagrusaree.com/project-management/activate.php on line 12
+[19-Jun-2021 23:21:40 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/referje0/bagrusaree.com/project-management/activate.php:10) in /home4/referje0/bagrusaree.com/project-management/activate.php on line 12

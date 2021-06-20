@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Staatliches', cursive;
+	font-weight:400;
+}
+
+.no-head{
+    padding: 50px 0;
+    background: #f5f5f5;
+}
+
+.form-wrapper {
+    max-width: 350px;
+    margin: 0px auto;
+    background: #fff;
+    padding: 30px 20px;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 7%);
+    border: 1px solid #ececec;
+}
+.web-logo {
+    text-align: center;
+}
+
+.web-logo img {
+    border-radius: 5px;
+    filter: grayscale(1);
+}
+.form-wrapper h3 {
+    margin-bottom: 40px;
+    text-align: center;
+    margin-top: 0;
+}
+
+.btn-default {
+    display: block;
+    height: 24px;
+    border-radius: 12px;
+    background-color: #d32f2f!important;
+    border: solid 1px #d32f2f;
+    color: #fff!important;
+    text-transform: uppercase;
+    padding: 0px 12px!important;
+    cursor: pointer;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none!important;
+    font-weight: normal!important;
+    margin: 0px auto;
+}
+a.forgot-pass {
+    font-size: 10px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+label {
+    width: 100%;
+    position: relative;
+}
+
+.other-msg {
+    text-align: center;
+    margin: 10px;
+}
+.top-bar {
+    background: #ccc;
+    margin-bottom: 10px;
+}
+
+.web-logo {
+    text-align: center;
+}
+
+
+.QuickNav-top {
+    background: #282A35;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+}
+
+.QuickNav-top ul {
+    padding: 0;
+    list-style: none;
+    margin-bottom: 0;
+}
+
+.QuickNav-top ul li a {
+    /* color: #f1f1f1; */
+    /* font-size: 16px; */
+    /* border: 1px solid; */
+    padding: 3px 15px;
+    /* border-radius: 4px; */
+}
+
+.project-heading h1 span {
+    font-size: 16px;
+    color: red;
+}
+.green-dot {
+    height: 16px;
+    width: 16px;
+    background-color: green;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin: 0px auto;
+}
+
+.red-dot {
+    height: 16px;
+    width: 16px;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.navbar-nav>li {
+    margin-right: 15px;
+}
+
+ul.dropdown-menu li a {
+    color: #000;
+    border: none;
+    border-bottom: 1px solid #ccc;
+}
+
+ul.dropdown-menu {
+    margin-top: 5px !important;
+}
+
+
+
+#editor .navigation {
+	margin:10px 0 20px;
+}
+#editor .navigation, .navigation a {
+	color:#608000;
+	font-size:12px;
+}
+#editor .navigation a {
+	margin-right:4px;
+}
+
+#editor a:link,#editor a:visited {
+	text-decoration:underline
+}
+#editor .testbutton {
+	margin-bottom:30px;
+	background:#3399FF;
+	padding:6px 25px;
+	border:#003F81 1px solid;
+	color:#FFF;
+	font-size:22px;
+	border-radius:5px; -webkit-border-radius:5px; -moz-border-radius:5px;
+	box-shadow:inset 0 5px 5px #67B3FF; -webkit-box-shadow:inset 0 5px 5px #67B3FF; -moz-box-shadow:inset 0 5px 5px #67B3FF
+}
+#editor .testbutton:hover {
+	background:#198CFF;
+	cursor:pointer
+}
+#editor .footer, #editor .footer * {
+	color:#802D00;
+	font-size:15px
+}
+
+#editor .jqte-test {
+	display:block;
+	margin:0 0 10px;
+	padding:6px;
+	width:95%;
+	background:#FFF;
+	border:#AAA 1px solid;
+	font-size:13px;
+}
+#editor textarea.jqte-test, div.jqte-test, span.jqte-test {
+	min-height:100px;
+}
+#editor button {
+	display:block;
+	margin:20px 0;
+	padding:6px 0 4px;
+	width:154px;
+	background:#658700;
+	border:#526E00 1px solid;
+	color:#F3FFCF !important;
+	text-align:center;
+	font-size:13px;
+	font-weight:bold;
+	border-radius:3px; -webkit-border-radius:3px; -moz-border-radius:3px;
+	box-shadow:0 0 2px #000, inset 0 1px 1px #99CC00; -webkit-box-shadow:0 0 2px #000, inset 0 1px 1px #99CC00; -moz-box-shadow:0 0 2px #000, inset 0 1px 1px #99CC00;
+	cursor:pointer;
+}
+#editor button:hover {
+	background:#78A000;
+	border-color:#658700;
+	text-decoration:none !important;
+	cursor:pointer
+}
+
+#editor button:active {
+	background:#3F5500;
+	border-color:#2C3C00;
+	color:#9CCD00 !important;
+	box-shadow:0 0 3px #000,inset 0 -2px 2px #333;
+	-webkit-box-shadow:0 0 3px #000, inset 0 -2px 2px #333;
+	-moz-box-shadow:0 0 3px #000, inset 0 -2px 2px #333;
+}
+
+.form-wrappers {
+    max-width: 70%;
+    background: #f5f5f5;
+    padding: 40px 30px;
+    margin: 0px auto;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 7%);
+    border: 1px solid #ececec;
+}
+img#blah {
+    object-fit: contain;
+    object-position: top;
+    margin: 10px 0;
+    border: 1px solid;
+    border-radius: 6px;
+}
+table#myTable img {
+    /* width: 175px; */
+    height: 70px;
+    object-fit: contain;
+    object-position: top;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
